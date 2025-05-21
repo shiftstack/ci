@@ -2,28 +2,24 @@
 
 aliases:
   openstack-approvers:
-    - EmilienM
-    - MaysaMacedo
     - MiguelCarpio
-    - gryf
-    - mandre
-    - mdbooth
-    - pierreprinetti
-    - stephenfin
+    - dkokkino
     - eurijon
-    - itzikb-redhat
-    - rlobillo
+    - gryf
     - imatza-rh
+    - itzikb-redhat
+    - mandre
+    - pierreprinetti
+    - rlobillo
+    - stephenfin
   openstack-reviewers:
-    - EmilienM
-    - MaysaMacedo
     - MiguelCarpio
-    - gryf
-    - mandre
-    - mdbooth
-    - pierreprinetti
-    - stephenfin
+    - dkokkino
     - eurijon
-    - itzikb-redhat
-    - rlobillo
+    - gryf
     - imatza-rh
+    - itzikb-redhat
+    - mandre
+    - pierreprinetti
+    - rlobillo
+    - stephenfin
