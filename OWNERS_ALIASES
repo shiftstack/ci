@@ -9,7 +9,6 @@ aliases:
     - imatza-rh
     - itzikb-redhat
     - mandre
-    - pierreprinetti
     - rlobillo
     - stephenfin
   openstack-reviewers:
@@ -20,6 +19,5 @@ aliases:
     - imatza-rh
     - itzikb-redhat
     - mandre
-    - pierreprinetti
     - rlobillo
     - stephenfin
