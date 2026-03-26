@@ -2,22 +2,14 @@
 
 aliases:
   openstack-approvers:
-    - MiguelCarpio
-    - dkokkino
-    - eurijon
     - gryf
     - imatza-rh
-    - itzikb-redhat
     - mandre
-    - rlobillo
     - stephenfin
   openstack-reviewers:
-    - MiguelCarpio
-    - dkokkino
-    - eurijon
+    - dlaw4608
+    - eshulman2
     - gryf
     - imatza-rh
-    - itzikb-redhat
     - mandre
-    - rlobillo
     - stephenfin
